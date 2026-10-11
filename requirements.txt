@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+matplotlib
+requests
+Pillow
+openai
+arabic-reshaper
+python-bidi
+openpyxl
